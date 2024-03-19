@@ -1,4 +1,4 @@
-- **Link to the dashboard:**https://www.novypro.com/project/pizzasectorrevenuereview
+- Link to the dashboard:https://www.novypro.com/project/pizzasectorrevenuereview
 - In this project, we analyzed Pizza Place dataset in **SQL Server** to extract valuable insights.
 - This analysis provides a deep understanding of a pizza establishment, offering details on the best-selling pizzas and those contributing the most to profits.
 - It delves into peak sales days, identifying **Fridays** as the highest-selling day, suggesting potential discounts to enhance customer attraction.
